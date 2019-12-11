@@ -22,5 +22,9 @@ class Hi-Malay  {
   public void sayHi() {
     System.out.println("Hi-Malay");
   }
+  
+  public void sayHow()  {
+  System.out.println("How are you!");
+  }
 
 }
